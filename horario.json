@@ -1,5 +1,5 @@
 {
-  "modo": "off",
+  "modo": "on",
   "tz": "America/Argentina/Buenos_Aires",
   "dias": [1, 2, 3, 4, 5],
   "desde": "07:00",
