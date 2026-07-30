@@ -3,5 +3,12 @@
   "tz": "America/Argentina/Buenos_Aires",
   "dias": [1, 2, 3, 4, 5],
   "desde": "07:00",
-  "hasta": "18:00"
+  "hasta": "18:00",
+    "pcs_permitidas": [
+    "DESKTOP-CJK6TAF",
+    "LINCOLN-COMP-01",
+    "LINCOLN-COMP-2",
+    "LINCOLN-COMP-3",
+    "LINCOLN-COMP-4"
+  ]
 }
